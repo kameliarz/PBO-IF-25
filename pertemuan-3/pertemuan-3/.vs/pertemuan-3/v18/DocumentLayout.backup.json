@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#if\\pertemuan-3\\pertemuan-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0462C22-3229-7206-EE36-B5402E9556AF}|pertemuan-3.csproj|e:\\c#if\\pertemuan-3\\pertemuan-3\\livecoding1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0462C22-3229-7206-EE36-B5402E9556AF}|pertemuan-3.csproj|solutionrelative:livecoding1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LiveCoding1.cs",
+              "DocumentMoniker": "E:\\c#if\\pertemuan-3\\pertemuan-3\\LiveCoding1.cs",
+              "RelativeDocumentMoniker": "LiveCoding1.cs",
+              "ToolTip": "E:\\c#if\\pertemuan-3\\pertemuan-3\\LiveCoding1.cs",
+              "RelativeToolTip": "LiveCoding1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:44:46.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\c#if\pertemuan-6\pertemuan-6\bin\Debug\net10.0\pertemuan-6.exe
+E:\c#if\pertemuan-6\pertemuan-6\bin\Debug\net10.0\pertemuan-6.deps.json
+E:\c#if\pertemuan-6\pertemuan-6\bin\Debug\net10.0\pertemuan-6.runtimeconfig.json
+E:\c#if\pertemuan-6\pertemuan-6\bin\Debug\net10.0\pertemuan-6.dll
+E:\c#if\pertemuan-6\pertemuan-6\bin\Debug\net10.0\pertemuan-6.pdb
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.AssemblyInfoInputs.cache
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.AssemblyInfo.cs
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.csproj.CoreCompileInputs.cache
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.sourcelink.json
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.dll
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\refint\pertemuan-6.dll
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.pdb
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\pertemuan-6.genruntimeconfig.cache
+E:\c#if\pertemuan-6\pertemuan-6\obj\Debug\net10.0\ref\pertemuan-6.dll

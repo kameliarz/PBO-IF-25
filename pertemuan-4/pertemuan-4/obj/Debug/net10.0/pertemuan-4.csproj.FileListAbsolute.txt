@@ -1,0 +1,15 @@
+E:\c#if\pertemuan-4\pertemuan-4\bin\Debug\net10.0\pertemuan-4.exe
+E:\c#if\pertemuan-4\pertemuan-4\bin\Debug\net10.0\pertemuan-4.deps.json
+E:\c#if\pertemuan-4\pertemuan-4\bin\Debug\net10.0\pertemuan-4.runtimeconfig.json
+E:\c#if\pertemuan-4\pertemuan-4\bin\Debug\net10.0\pertemuan-4.dll
+E:\c#if\pertemuan-4\pertemuan-4\bin\Debug\net10.0\pertemuan-4.pdb
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.AssemblyInfoInputs.cache
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.AssemblyInfo.cs
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.csproj.CoreCompileInputs.cache
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.sourcelink.json
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.dll
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\refint\pertemuan-4.dll
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.pdb
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\pertemuan-4.genruntimeconfig.cache
+E:\c#if\pertemuan-4\pertemuan-4\obj\Debug\net10.0\ref\pertemuan-4.dll

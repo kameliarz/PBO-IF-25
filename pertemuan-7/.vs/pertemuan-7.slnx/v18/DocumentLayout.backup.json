@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#if\\pertemuan-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46345853-E54A-4C1D-88A1-BCC55995A8B7}|pertemuan-7\\pertemuan-7.csproj|e:\\c#if\\pertemuan-7\\pertemuan-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46345853-E54A-4C1D-88A1-BCC55995A8B7}|pertemuan-7\\pertemuan-7.csproj|solutionrelative:pertemuan-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#if\\pertemuan-7\\pertemuan-7\\Program.cs",
+              "RelativeDocumentMoniker": "pertemuan-7\\Program.cs",
+              "ToolTip": "E:\\c#if\\pertemuan-7\\pertemuan-7\\Program.cs*",
+              "RelativeToolTip": "pertemuan-7\\Program.cs*",
+              "ViewState": "AgIAADAAAAAApJmZmZn5vzcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:54:55.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

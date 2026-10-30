@@ -1,18 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\c#if\\pertemuan-1\\",
+  "WorkspaceRootPath": "E:\\c#if\\pertemuan-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE550670-6864-C26E-9C8C-123DD3E6B448}|pertemuan-1\\pertemuan-2.csproj|e:\\c#if\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BE550670-6864-C26E-9C8C-123DD3E6B448}|pertemuan-1\\pertemuan-2.csproj|solutionrelative:pertemuan-1\\pertemuan-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\c#if\\pertemuan-2\\pertemuan-2\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pertemuan-2\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE550670-6864-C26E-9C8C-123DD3E6B448}|pertemuan-1\\pertemuan-2.csproj|e:\\c#if\\pertemuan-1\\pertemuan-1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE550670-6864-C26E-9C8C-123DD3E6B448}|pertemuan-1\\pertemuan-2.csproj|solutionrelative:pertemuan-1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\c#if\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE550670-6864-C26E-9C8C-123DD3E6B448}|pertemuan-1\\pertemuan-2.csproj|e:\\c#if\\pertemuan-1\\pertemuan-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE550670-6864-C26E-9C8C-123DD3E6B448}|pertemuan-1\\pertemuan-2.csproj|solutionrelative:pertemuan-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\c#if\\pertemuan-1\\pertemuan-1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\c#if\\pertemuan-1\\pertemuan-1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,36 +36,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pertemuan-2.csproj",
-              "DocumentMoniker": "E:\\c#if\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj",
-              "RelativeDocumentMoniker": "pertemuan-1\\pertemuan-2.csproj",
-              "ToolTip": "E:\\c#if\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj",
-              "RelativeToolTip": "pertemuan-1\\pertemuan-2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-31T16:34:40.446Z",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\c#if\\pertemuan-2\\pertemuan-2\\Class1.cs",
+              "RelativeDocumentMoniker": "pertemuan-2\\Class1.cs",
+              "ToolTip": "E:\\c#if\\pertemuan-2\\pertemuan-2\\Class1.cs",
+              "RelativeToolTip": "pertemuan-2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:25:45.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "pertemuan-2.csproj",
+              "DocumentMoniker": "E:\\c#if\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj",
+              "RelativeDocumentMoniker": "..\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj",
+              "ToolTip": "E:\\c#if\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj",
+              "RelativeToolTip": "..\\pertemuan-1\\pertemuan-1\\pertemuan-2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-31T16:34:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\c#if\\pertemuan-1\\pertemuan-1\\Class1.cs",
-              "RelativeDocumentMoniker": "pertemuan-1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\pertemuan-1\\pertemuan-1\\Class1.cs",
               "ToolTip": "E:\\c#if\\pertemuan-1\\pertemuan-1\\Class1.cs",
-              "RelativeToolTip": "pertemuan-1\\Class1.cs",
+              "RelativeToolTip": "..\\pertemuan-1\\pertemuan-1\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:57:19.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\c#if\\pertemuan-1\\pertemuan-1\\Program.cs",
-              "RelativeDocumentMoniker": "pertemuan-1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\pertemuan-1\\pertemuan-1\\Program.cs",
               "ToolTip": "E:\\c#if\\pertemuan-1\\pertemuan-1\\Program.cs",
-              "RelativeToolTip": "pertemuan-1\\Program.cs",
+              "RelativeToolTip": "..\\pertemuan-1\\pertemuan-1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:25:33.565Z"

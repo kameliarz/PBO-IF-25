@@ -1,0 +1,40 @@
+E:\c#if\pertemuan-9\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.exe
+E:\c#if\pertemuan-9\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.deps.json
+E:\c#if\pertemuan-9\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.runtimeconfig.json
+E:\c#if\pertemuan-9\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.dll
+E:\c#if\pertemuan-9\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.pdb
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.FormDashboard.resources
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.FormLogin.resources
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.Properties.Resources.resources
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.csproj.GenerateResource.cache
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.AssemblyInfoInputs.cache
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.AssemblyInfo.cs
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.csproj.CoreCompileInputs.cache
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.sourcelink.json
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.dll
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\refint\pertemuan-9.dll
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.pdb
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.genruntimeconfig.cache
+E:\c#if\pertemuan-9\pertemuan-9\obj\Debug\net10.0-windows\ref\pertemuan-9.dll
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.exe
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.deps.json
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.runtimeconfig.json
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.dll
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\bin\Debug\net10.0-windows\pertemuan-9.pdb
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.FormDashboard.resources
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.FormLogin.resources
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.Properties.Resources.resources
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.csproj.GenerateResource.cache
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.AssemblyInfoInputs.cache
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.AssemblyInfo.cs
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.csproj.CoreCompileInputs.cache
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.sourcelink.json
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.dll
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\refint\pertemuan-9.dll
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.pdb
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.genruntimeconfig.cache
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\ref\pertemuan-9.dll
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan-9.csproj.AssemblyReference.cache
+E:\c#if\pertemuan-9 - Copy\pertemuan-9\obj\Debug\net10.0-windows\pertemuan_9.Form3.resources
